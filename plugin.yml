@@ -1,0 +1,10 @@
+name: gunmaster
+main: com.lekohd.gunmaster.GunMaster
+version: 1.0
+description: >
+            work in progress.
+commands:
+  gg:
+    description: work in progress !
+  
+

@@ -1,0 +1,108 @@
+general:
+  toolId: 280
+  useColoredNames: true
+  enabledArenas: arena,arena2
+arena:
+  world: world
+  useGlobalAnnouncements: true
+  allowTeamkill: true
+  teams:
+    team1:
+      name: Red
+      color: c      
+    team2:
+      name: Blue
+      color: 9
+  area:
+    Main:
+      Point1: 0,0,0,0,0
+      Point2: 0,0,0,0,0
+      Spawn1: 0,0,0,0,0
+      Spawn2: 0,0,0,0,0
+    Warmup:
+      Point1: 0,0,0,0,0
+      Point2: 0,0,0,0,0
+      Spawn1: 0,0,0,0,0
+      Spawn2: 0,0,0,0,0
+    Win:
+      Point1: 0,0,0,0,0
+      Point2: 0,0,0,0,0
+      Spawn1: 0,0,0,0,0
+      Spawn2: 0,0,0,0,0
+    Loose:
+      Point1: 0,0,0,0,0
+      Point2: 0,0,0,0,0
+      Spawn1: 0,0,0,0,0
+      Spawn2: 0,0,0,0,0
+  level:
+    order: level1,level2,level3,level4,level5,level6
+    level1:
+      weaponId: 268
+      neededPoints: 0
+    level2:
+      weaponId: 275
+      neededPoints: 2
+    level3:
+      weaponId: 272
+      neededPoints: 4
+    level4:
+      weaponId: 283
+      neededPoints: 6
+    level5:
+      weaponId: 267
+      neededPoints: 8
+    level6:
+      weaponId: 276
+      neededPoints: 10
+arena2:
+  world: world
+  useGlobalAnnouncements: true
+  allowTeamkill: true
+  teams:
+    team1:
+      name: Red
+      color: c
+    team2:
+      name: Blue
+      color: 9
+  area:
+    Main:
+      Point1: 0,0,0,0,0
+      Point2: 0,0,0,0,0
+      Spawn1: 0,0,0,0,0
+      Spawn2: 0,0,0,0,0
+    Warmup:
+      Point1: 0,0,0,0,0
+      Point2: 0,0,0,0,0
+      Spawn1: 0,0,0,0,0
+      Spawn2: 0,0,0,0,0
+    Win:
+      Point1: 0,0,0,0,0
+      Point2: 0,0,0,0,0
+      Spawn1: 0,0,0,0,0
+      Spawn2: 0,0,0,0,0
+    Loose:
+      Point1: 0,0,0,0,0
+      Point2: 0,0,0,0,0
+      Spawn1: 0,0,0,0,0
+      Spawn2: 0,0,0,0,0
+  level:
+    order: level1,level2,level3,level4,level5,level6
+    level1:
+      weaponId: 268
+      neededPoints: 0
+    level2:
+      weaponId: 275
+      neededPoints: 2
+    level3:
+      weaponId: 272
+      neededPoints: 4
+    level4:
+      weaponId: 283
+      neededPoints: 6
+    level5:
+      weaponId: 267
+      neededPoints: 8
+    level6:
+      weaponId: 276
+      neededPoints: 10
